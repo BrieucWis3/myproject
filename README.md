@@ -1,2 +1,2 @@
 # myproject
-Gloire à Yehoshoua Mashiah !
+Gloire à Yehoshoua Ha Mashiah ! Notre Seigneur et sauveur !
