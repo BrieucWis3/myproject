@@ -1,0 +1,13 @@
+{% extends "base.html.twig" %}
+{% block title 'Gérer les biens'%}
+    
+{% block body %}
+
+<div class="container mt-4">
+    <h1>Editer l'option n°{{ option.id }}</h1>
+    {{ include('admin/option/_form.html.twig', {form: form, button: 'Editer'}) }}
+    
+        
+</div>{# empty Twig template #}
+{% endblock %}
+
