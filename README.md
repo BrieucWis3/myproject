@@ -1,2 +1,2 @@
 # myproject
-Gloire à Yehoshoua !
+Gloire à Yehoshoua Mashiah !
