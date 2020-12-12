@@ -1,3 +1,4 @@
 # myproject
-Gloire à Yehoshoua Ha Mashiah ! Notre Seigneur et sauveur ! Amen Yehoshoua est vivant !
-Merci Seigneur !
+Gloire à Yehoshoua Ha Mashiah ! Notre Seigneur et sauveur ! Amen Yehoshoua est vivant !!
+
+
