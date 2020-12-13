@@ -9,7 +9,7 @@ use \App\Repository\PropertyRepository;
 
 class HomeController extends AbstractController {
 
-    /**
+    /** Gloire au Seigneur
      * @var Environment
      */
    /* Inutile avec AbstractController
