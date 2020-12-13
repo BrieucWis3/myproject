@@ -18,14 +18,14 @@ use \App\Form\ContactType;
 
 class PropertyController extends AbstractController {
 
-    /* création d'un repository pour l'entity Property : methode 2*/
+    /* création d'un repository pour l'entity Property : methode 2*/ 
     public function __construct(PropertyRepository $repository, EntityManagerInterface $em)
     {
         $this->repository=$repository;
         $this->em=$em;
     }
 
-    /**
+    /** Amen
      * @Route("/biens", name="property.index")
      * @return Response
      */
