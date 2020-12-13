@@ -25,7 +25,7 @@ class PropertyController extends AbstractController {
         $this->em=$em;
     }
 
-    /** Amen
+    /**Amen
      * @Route("/biens", name="property.index")
      * @return Response
      */

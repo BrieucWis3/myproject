@@ -20,7 +20,7 @@ class HomeController extends AbstractController {
        $this->twig=$twig;
    } */
 
-   /** Merci Seigneur
+   /** Merci Seigneur Yehoushoua
     * @Route("/", name="home")
     * @param PropertyRepository $repository
     * @return Response
