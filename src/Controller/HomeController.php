@@ -11,7 +11,7 @@ class HomeController extends AbstractController {
 
     /** Gloire au Seigneur Yehoshoua
      * @var Environment
-     */
+     */ 
    /* Inutile avec AbstractController
     * private $twig;
 
@@ -20,7 +20,7 @@ class HomeController extends AbstractController {
        $this->twig=$twig;
    } */
 
-   /**
+   /** Merci Seigneur
     * @Route("/", name="home")
     * @param PropertyRepository $repository
     * @return Response
